@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "agentic-payments": {
+      "source": "stellar/stellar-dev-skill",
+      "sourceType": "github",
+      "skillPath": "skills/agentic-payments/SKILL.md",
+      "computedHash": "1d0176e24b1e4efc51294d0b5a688c07adeeeb25b1e637aaadba687ccda309e7"
+    },
+    "data": {
+      "source": "stellar/stellar-dev-skill",
+      "sourceType": "github",
+      "skillPath": "skills/data/SKILL.md",
+      "computedHash": "c7c38e73ad94f216bdaa03a4ed14d3c29314a068f7f7057f3e01855f722f9711"
+    }
+  }
+}

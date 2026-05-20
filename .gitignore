@@ -27,3 +27,4 @@ build/
 # Project-local files
 TOPROMPT.md
 audit/
+node_modules/

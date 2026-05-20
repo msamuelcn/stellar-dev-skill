@@ -17,6 +17,8 @@
     "lint:ts": "tsc --noEmit"
   },
   "dependencies": {
+    "@stellar/stellar-sdk": "^14.2.0",
+    "@supabase/supabase-js": "^2.57.4",
     "@next/third-parties": "^15.5.7",
     "@stellar/design-system": "^3.2.7",
     "next": "15.5.18",
